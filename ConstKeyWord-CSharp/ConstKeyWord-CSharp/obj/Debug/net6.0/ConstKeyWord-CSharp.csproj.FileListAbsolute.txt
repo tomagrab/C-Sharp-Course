@@ -1,0 +1,15 @@
+C:\Users\Tommy\source\repos\ConstKeyWord-CSharp\ConstKeyWord-CSharp\obj\Debug\net6.0\ConstKeyWord-CSharp.csproj.AssemblyReference.cache
+C:\Users\Tommy\source\repos\ConstKeyWord-CSharp\ConstKeyWord-CSharp\obj\Debug\net6.0\ConstKeyWord-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommy\source\repos\ConstKeyWord-CSharp\ConstKeyWord-CSharp\obj\Debug\net6.0\ConstKeyWord-CSharp.AssemblyInfoInputs.cache
+C:\Users\Tommy\source\repos\ConstKeyWord-CSharp\ConstKeyWord-CSharp\obj\Debug\net6.0\ConstKeyWord-CSharp.AssemblyInfo.cs
+C:\Users\Tommy\source\repos\ConstKeyWord-CSharp\ConstKeyWord-CSharp\obj\Debug\net6.0\ConstKeyWord-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\source\repos\ConstKeyWord-CSharp\ConstKeyWord-CSharp\bin\Debug\net6.0\ConstKeyWord-CSharp.exe
+C:\Users\Tommy\source\repos\ConstKeyWord-CSharp\ConstKeyWord-CSharp\bin\Debug\net6.0\ConstKeyWord-CSharp.deps.json
+C:\Users\Tommy\source\repos\ConstKeyWord-CSharp\ConstKeyWord-CSharp\bin\Debug\net6.0\ConstKeyWord-CSharp.runtimeconfig.json
+C:\Users\Tommy\source\repos\ConstKeyWord-CSharp\ConstKeyWord-CSharp\bin\Debug\net6.0\ConstKeyWord-CSharp.dll
+C:\Users\Tommy\source\repos\ConstKeyWord-CSharp\ConstKeyWord-CSharp\bin\Debug\net6.0\ConstKeyWord-CSharp.pdb
+C:\Users\Tommy\source\repos\ConstKeyWord-CSharp\ConstKeyWord-CSharp\obj\Debug\net6.0\ConstKeyWord-CSharp.dll
+C:\Users\Tommy\source\repos\ConstKeyWord-CSharp\ConstKeyWord-CSharp\obj\Debug\net6.0\refint\ConstKeyWord-CSharp.dll
+C:\Users\Tommy\source\repos\ConstKeyWord-CSharp\ConstKeyWord-CSharp\obj\Debug\net6.0\ConstKeyWord-CSharp.pdb
+C:\Users\Tommy\source\repos\ConstKeyWord-CSharp\ConstKeyWord-CSharp\obj\Debug\net6.0\ConstKeyWord-CSharp.genruntimeconfig.cache
+C:\Users\Tommy\source\repos\ConstKeyWord-CSharp\ConstKeyWord-CSharp\obj\Debug\net6.0\ref\ConstKeyWord-CSharp.dll
