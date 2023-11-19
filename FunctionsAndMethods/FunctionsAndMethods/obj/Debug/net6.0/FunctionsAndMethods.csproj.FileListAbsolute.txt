@@ -1,0 +1,15 @@
+C:\Users\Tommy\source\repos\C-Sharp-Course\FunctionsAndMethods\FunctionsAndMethods\bin\Debug\net6.0\FunctionsAndMethods.exe
+C:\Users\Tommy\source\repos\C-Sharp-Course\FunctionsAndMethods\FunctionsAndMethods\bin\Debug\net6.0\FunctionsAndMethods.deps.json
+C:\Users\Tommy\source\repos\C-Sharp-Course\FunctionsAndMethods\FunctionsAndMethods\bin\Debug\net6.0\FunctionsAndMethods.runtimeconfig.json
+C:\Users\Tommy\source\repos\C-Sharp-Course\FunctionsAndMethods\FunctionsAndMethods\bin\Debug\net6.0\FunctionsAndMethods.dll
+C:\Users\Tommy\source\repos\C-Sharp-Course\FunctionsAndMethods\FunctionsAndMethods\bin\Debug\net6.0\FunctionsAndMethods.pdb
+C:\Users\Tommy\source\repos\C-Sharp-Course\FunctionsAndMethods\FunctionsAndMethods\obj\Debug\net6.0\FunctionsAndMethods.csproj.AssemblyReference.cache
+C:\Users\Tommy\source\repos\C-Sharp-Course\FunctionsAndMethods\FunctionsAndMethods\obj\Debug\net6.0\FunctionsAndMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommy\source\repos\C-Sharp-Course\FunctionsAndMethods\FunctionsAndMethods\obj\Debug\net6.0\FunctionsAndMethods.AssemblyInfoInputs.cache
+C:\Users\Tommy\source\repos\C-Sharp-Course\FunctionsAndMethods\FunctionsAndMethods\obj\Debug\net6.0\FunctionsAndMethods.AssemblyInfo.cs
+C:\Users\Tommy\source\repos\C-Sharp-Course\FunctionsAndMethods\FunctionsAndMethods\obj\Debug\net6.0\FunctionsAndMethods.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\source\repos\C-Sharp-Course\FunctionsAndMethods\FunctionsAndMethods\obj\Debug\net6.0\FunctionsAndMethods.dll
+C:\Users\Tommy\source\repos\C-Sharp-Course\FunctionsAndMethods\FunctionsAndMethods\obj\Debug\net6.0\refint\FunctionsAndMethods.dll
+C:\Users\Tommy\source\repos\C-Sharp-Course\FunctionsAndMethods\FunctionsAndMethods\obj\Debug\net6.0\FunctionsAndMethods.pdb
+C:\Users\Tommy\source\repos\C-Sharp-Course\FunctionsAndMethods\FunctionsAndMethods\obj\Debug\net6.0\FunctionsAndMethods.genruntimeconfig.cache
+C:\Users\Tommy\source\repos\C-Sharp-Course\FunctionsAndMethods\FunctionsAndMethods\obj\Debug\net6.0\ref\FunctionsAndMethods.dll
