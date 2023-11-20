@@ -1,0 +1,15 @@
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\LoopsChallenge\LoopsChallenge\bin\Debug\net8.0\LoopsChallenge.exe
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\LoopsChallenge\LoopsChallenge\bin\Debug\net8.0\LoopsChallenge.deps.json
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\LoopsChallenge\LoopsChallenge\bin\Debug\net8.0\LoopsChallenge.runtimeconfig.json
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\LoopsChallenge\LoopsChallenge\bin\Debug\net8.0\LoopsChallenge.dll
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\LoopsChallenge\LoopsChallenge\bin\Debug\net8.0\LoopsChallenge.pdb
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\LoopsChallenge\LoopsChallenge\obj\Debug\net8.0\LoopsChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\LoopsChallenge\LoopsChallenge\obj\Debug\net8.0\LoopsChallenge.AssemblyInfoInputs.cache
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\LoopsChallenge\LoopsChallenge\obj\Debug\net8.0\LoopsChallenge.AssemblyInfo.cs
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\LoopsChallenge\LoopsChallenge\obj\Debug\net8.0\LoopsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\LoopsChallenge\LoopsChallenge\obj\Debug\net8.0\LoopsChallenge.sourcelink.json
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\LoopsChallenge\LoopsChallenge\obj\Debug\net8.0\LoopsChallenge.dll
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\LoopsChallenge\LoopsChallenge\obj\Debug\net8.0\refint\LoopsChallenge.dll
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\LoopsChallenge\LoopsChallenge\obj\Debug\net8.0\LoopsChallenge.pdb
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\LoopsChallenge\LoopsChallenge\obj\Debug\net8.0\LoopsChallenge.genruntimeconfig.cache
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\LoopsChallenge\LoopsChallenge\obj\Debug\net8.0\ref\LoopsChallenge.dll
