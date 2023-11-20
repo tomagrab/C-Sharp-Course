@@ -1,0 +1,15 @@
+C:\Users\Tommy\source\repos\C-Sharp-Course\EvenOROdd\EvenOROdd\bin\Debug\net6.0\EvenOROdd.exe
+C:\Users\Tommy\source\repos\C-Sharp-Course\EvenOROdd\EvenOROdd\bin\Debug\net6.0\EvenOROdd.deps.json
+C:\Users\Tommy\source\repos\C-Sharp-Course\EvenOROdd\EvenOROdd\bin\Debug\net6.0\EvenOROdd.runtimeconfig.json
+C:\Users\Tommy\source\repos\C-Sharp-Course\EvenOROdd\EvenOROdd\bin\Debug\net6.0\EvenOROdd.dll
+C:\Users\Tommy\source\repos\C-Sharp-Course\EvenOROdd\EvenOROdd\bin\Debug\net6.0\EvenOROdd.pdb
+C:\Users\Tommy\source\repos\C-Sharp-Course\EvenOROdd\EvenOROdd\obj\Debug\net6.0\EvenOROdd.csproj.AssemblyReference.cache
+C:\Users\Tommy\source\repos\C-Sharp-Course\EvenOROdd\EvenOROdd\obj\Debug\net6.0\EvenOROdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommy\source\repos\C-Sharp-Course\EvenOROdd\EvenOROdd\obj\Debug\net6.0\EvenOROdd.AssemblyInfoInputs.cache
+C:\Users\Tommy\source\repos\C-Sharp-Course\EvenOROdd\EvenOROdd\obj\Debug\net6.0\EvenOROdd.AssemblyInfo.cs
+C:\Users\Tommy\source\repos\C-Sharp-Course\EvenOROdd\EvenOROdd\obj\Debug\net6.0\EvenOROdd.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\source\repos\C-Sharp-Course\EvenOROdd\EvenOROdd\obj\Debug\net6.0\EvenOROdd.dll
+C:\Users\Tommy\source\repos\C-Sharp-Course\EvenOROdd\EvenOROdd\obj\Debug\net6.0\refint\EvenOROdd.dll
+C:\Users\Tommy\source\repos\C-Sharp-Course\EvenOROdd\EvenOROdd\obj\Debug\net6.0\EvenOROdd.pdb
+C:\Users\Tommy\source\repos\C-Sharp-Course\EvenOROdd\EvenOROdd\obj\Debug\net6.0\EvenOROdd.genruntimeconfig.cache
+C:\Users\Tommy\source\repos\C-Sharp-Course\EvenOROdd\EvenOROdd\obj\Debug\net6.0\ref\EvenOROdd.dll

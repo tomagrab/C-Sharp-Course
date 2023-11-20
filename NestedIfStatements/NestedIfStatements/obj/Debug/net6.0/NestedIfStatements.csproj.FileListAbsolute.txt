@@ -1,0 +1,15 @@
+C:\Users\Tommy\source\repos\C-Sharp-Course\NestedIfStatements\NestedIfStatements\bin\Debug\net6.0\NestedIfStatements.exe
+C:\Users\Tommy\source\repos\C-Sharp-Course\NestedIfStatements\NestedIfStatements\bin\Debug\net6.0\NestedIfStatements.deps.json
+C:\Users\Tommy\source\repos\C-Sharp-Course\NestedIfStatements\NestedIfStatements\bin\Debug\net6.0\NestedIfStatements.runtimeconfig.json
+C:\Users\Tommy\source\repos\C-Sharp-Course\NestedIfStatements\NestedIfStatements\bin\Debug\net6.0\NestedIfStatements.dll
+C:\Users\Tommy\source\repos\C-Sharp-Course\NestedIfStatements\NestedIfStatements\bin\Debug\net6.0\NestedIfStatements.pdb
+C:\Users\Tommy\source\repos\C-Sharp-Course\NestedIfStatements\NestedIfStatements\obj\Debug\net6.0\NestedIfStatements.csproj.AssemblyReference.cache
+C:\Users\Tommy\source\repos\C-Sharp-Course\NestedIfStatements\NestedIfStatements\obj\Debug\net6.0\NestedIfStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommy\source\repos\C-Sharp-Course\NestedIfStatements\NestedIfStatements\obj\Debug\net6.0\NestedIfStatements.AssemblyInfoInputs.cache
+C:\Users\Tommy\source\repos\C-Sharp-Course\NestedIfStatements\NestedIfStatements\obj\Debug\net6.0\NestedIfStatements.AssemblyInfo.cs
+C:\Users\Tommy\source\repos\C-Sharp-Course\NestedIfStatements\NestedIfStatements\obj\Debug\net6.0\NestedIfStatements.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\source\repos\C-Sharp-Course\NestedIfStatements\NestedIfStatements\obj\Debug\net6.0\NestedIfStatements.dll
+C:\Users\Tommy\source\repos\C-Sharp-Course\NestedIfStatements\NestedIfStatements\obj\Debug\net6.0\refint\NestedIfStatements.dll
+C:\Users\Tommy\source\repos\C-Sharp-Course\NestedIfStatements\NestedIfStatements\obj\Debug\net6.0\NestedIfStatements.pdb
+C:\Users\Tommy\source\repos\C-Sharp-Course\NestedIfStatements\NestedIfStatements\obj\Debug\net6.0\NestedIfStatements.genruntimeconfig.cache
+C:\Users\Tommy\source\repos\C-Sharp-Course\NestedIfStatements\NestedIfStatements\obj\Debug\net6.0\ref\NestedIfStatements.dll
