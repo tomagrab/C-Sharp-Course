@@ -1,0 +1,15 @@
+C:\Users\Tommy\source\repos\C-Sharp-Course\DecisionMakingIntro\DecisionMakingIntro\bin\Debug\net6.0\DecisionMakingIntro.exe
+C:\Users\Tommy\source\repos\C-Sharp-Course\DecisionMakingIntro\DecisionMakingIntro\bin\Debug\net6.0\DecisionMakingIntro.deps.json
+C:\Users\Tommy\source\repos\C-Sharp-Course\DecisionMakingIntro\DecisionMakingIntro\bin\Debug\net6.0\DecisionMakingIntro.runtimeconfig.json
+C:\Users\Tommy\source\repos\C-Sharp-Course\DecisionMakingIntro\DecisionMakingIntro\bin\Debug\net6.0\DecisionMakingIntro.dll
+C:\Users\Tommy\source\repos\C-Sharp-Course\DecisionMakingIntro\DecisionMakingIntro\bin\Debug\net6.0\DecisionMakingIntro.pdb
+C:\Users\Tommy\source\repos\C-Sharp-Course\DecisionMakingIntro\DecisionMakingIntro\obj\Debug\net6.0\DecisionMakingIntro.csproj.AssemblyReference.cache
+C:\Users\Tommy\source\repos\C-Sharp-Course\DecisionMakingIntro\DecisionMakingIntro\obj\Debug\net6.0\DecisionMakingIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommy\source\repos\C-Sharp-Course\DecisionMakingIntro\DecisionMakingIntro\obj\Debug\net6.0\DecisionMakingIntro.AssemblyInfoInputs.cache
+C:\Users\Tommy\source\repos\C-Sharp-Course\DecisionMakingIntro\DecisionMakingIntro\obj\Debug\net6.0\DecisionMakingIntro.AssemblyInfo.cs
+C:\Users\Tommy\source\repos\C-Sharp-Course\DecisionMakingIntro\DecisionMakingIntro\obj\Debug\net6.0\DecisionMakingIntro.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\source\repos\C-Sharp-Course\DecisionMakingIntro\DecisionMakingIntro\obj\Debug\net6.0\DecisionMakingIntro.dll
+C:\Users\Tommy\source\repos\C-Sharp-Course\DecisionMakingIntro\DecisionMakingIntro\obj\Debug\net6.0\refint\DecisionMakingIntro.dll
+C:\Users\Tommy\source\repos\C-Sharp-Course\DecisionMakingIntro\DecisionMakingIntro\obj\Debug\net6.0\DecisionMakingIntro.pdb
+C:\Users\Tommy\source\repos\C-Sharp-Course\DecisionMakingIntro\DecisionMakingIntro\obj\Debug\net6.0\DecisionMakingIntro.genruntimeconfig.cache
+C:\Users\Tommy\source\repos\C-Sharp-Course\DecisionMakingIntro\DecisionMakingIntro\obj\Debug\net6.0\ref\DecisionMakingIntro.dll
