@@ -1,0 +1,15 @@
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\ArrayAsParameters\ArrayAsParameters\bin\Debug\net8.0\ArrayAsParameters.exe
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\ArrayAsParameters\ArrayAsParameters\bin\Debug\net8.0\ArrayAsParameters.deps.json
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\ArrayAsParameters\ArrayAsParameters\bin\Debug\net8.0\ArrayAsParameters.runtimeconfig.json
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\ArrayAsParameters\ArrayAsParameters\bin\Debug\net8.0\ArrayAsParameters.dll
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\ArrayAsParameters\ArrayAsParameters\bin\Debug\net8.0\ArrayAsParameters.pdb
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\ArrayAsParameters\ArrayAsParameters\obj\Debug\net8.0\ArrayAsParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\ArrayAsParameters\ArrayAsParameters\obj\Debug\net8.0\ArrayAsParameters.AssemblyInfoInputs.cache
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\ArrayAsParameters\ArrayAsParameters\obj\Debug\net8.0\ArrayAsParameters.AssemblyInfo.cs
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\ArrayAsParameters\ArrayAsParameters\obj\Debug\net8.0\ArrayAsParameters.csproj.CoreCompileInputs.cache
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\ArrayAsParameters\ArrayAsParameters\obj\Debug\net8.0\ArrayAsParameters.sourcelink.json
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\ArrayAsParameters\ArrayAsParameters\obj\Debug\net8.0\ArrayAsParameters.dll
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\ArrayAsParameters\ArrayAsParameters\obj\Debug\net8.0\refint\ArrayAsParameters.dll
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\ArrayAsParameters\ArrayAsParameters\obj\Debug\net8.0\ArrayAsParameters.pdb
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\ArrayAsParameters\ArrayAsParameters\obj\Debug\net8.0\ArrayAsParameters.genruntimeconfig.cache
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\ArrayAsParameters\ArrayAsParameters\obj\Debug\net8.0\ref\ArrayAsParameters.dll
