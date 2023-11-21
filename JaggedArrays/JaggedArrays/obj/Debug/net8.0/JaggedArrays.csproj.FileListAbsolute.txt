@@ -1,0 +1,15 @@
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\JaggedArrays\JaggedArrays\bin\Debug\net8.0\JaggedArrays.exe
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\JaggedArrays\JaggedArrays\bin\Debug\net8.0\JaggedArrays.deps.json
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\JaggedArrays\JaggedArrays\bin\Debug\net8.0\JaggedArrays.runtimeconfig.json
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\JaggedArrays\JaggedArrays\bin\Debug\net8.0\JaggedArrays.dll
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\JaggedArrays\JaggedArrays\bin\Debug\net8.0\JaggedArrays.pdb
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\JaggedArrays\JaggedArrays\obj\Debug\net8.0\JaggedArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\JaggedArrays\JaggedArrays\obj\Debug\net8.0\JaggedArrays.AssemblyInfoInputs.cache
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\JaggedArrays\JaggedArrays\obj\Debug\net8.0\JaggedArrays.AssemblyInfo.cs
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\JaggedArrays\JaggedArrays\obj\Debug\net8.0\JaggedArrays.csproj.CoreCompileInputs.cache
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\JaggedArrays\JaggedArrays\obj\Debug\net8.0\JaggedArrays.sourcelink.json
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\JaggedArrays\JaggedArrays\obj\Debug\net8.0\JaggedArrays.dll
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\JaggedArrays\JaggedArrays\obj\Debug\net8.0\refint\JaggedArrays.dll
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\JaggedArrays\JaggedArrays\obj\Debug\net8.0\JaggedArrays.pdb
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\JaggedArrays\JaggedArrays\obj\Debug\net8.0\JaggedArrays.genruntimeconfig.cache
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\JaggedArrays\JaggedArrays\obj\Debug\net8.0\ref\JaggedArrays.dll
