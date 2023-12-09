@@ -1,0 +1,14 @@
+D:\Projects\Console\c-sharp-course\Queues\bin\Debug\net8.0\Queues.exe
+D:\Projects\Console\c-sharp-course\Queues\bin\Debug\net8.0\Queues.deps.json
+D:\Projects\Console\c-sharp-course\Queues\bin\Debug\net8.0\Queues.runtimeconfig.json
+D:\Projects\Console\c-sharp-course\Queues\bin\Debug\net8.0\Queues.dll
+D:\Projects\Console\c-sharp-course\Queues\bin\Debug\net8.0\Queues.pdb
+D:\Projects\Console\c-sharp-course\Queues\obj\Debug\net8.0\Queues.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Console\c-sharp-course\Queues\obj\Debug\net8.0\Queues.AssemblyInfoInputs.cache
+D:\Projects\Console\c-sharp-course\Queues\obj\Debug\net8.0\Queues.AssemblyInfo.cs
+D:\Projects\Console\c-sharp-course\Queues\obj\Debug\net8.0\Queues.csproj.CoreCompileInputs.cache
+D:\Projects\Console\c-sharp-course\Queues\obj\Debug\net8.0\Queues.dll
+D:\Projects\Console\c-sharp-course\Queues\obj\Debug\net8.0\refint\Queues.dll
+D:\Projects\Console\c-sharp-course\Queues\obj\Debug\net8.0\Queues.pdb
+D:\Projects\Console\c-sharp-course\Queues\obj\Debug\net8.0\Queues.genruntimeconfig.cache
+D:\Projects\Console\c-sharp-course\Queues\obj\Debug\net8.0\ref\Queues.dll

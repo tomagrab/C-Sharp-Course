@@ -1,0 +1,14 @@
+D:\Projects\Console\c-sharp-course\HashTable\bin\Debug\net8.0\HashTable.exe
+D:\Projects\Console\c-sharp-course\HashTable\bin\Debug\net8.0\HashTable.deps.json
+D:\Projects\Console\c-sharp-course\HashTable\bin\Debug\net8.0\HashTable.runtimeconfig.json
+D:\Projects\Console\c-sharp-course\HashTable\bin\Debug\net8.0\HashTable.dll
+D:\Projects\Console\c-sharp-course\HashTable\bin\Debug\net8.0\HashTable.pdb
+D:\Projects\Console\c-sharp-course\HashTable\obj\Debug\net8.0\HashTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Console\c-sharp-course\HashTable\obj\Debug\net8.0\HashTable.AssemblyInfoInputs.cache
+D:\Projects\Console\c-sharp-course\HashTable\obj\Debug\net8.0\HashTable.AssemblyInfo.cs
+D:\Projects\Console\c-sharp-course\HashTable\obj\Debug\net8.0\HashTable.csproj.CoreCompileInputs.cache
+D:\Projects\Console\c-sharp-course\HashTable\obj\Debug\net8.0\HashTable.dll
+D:\Projects\Console\c-sharp-course\HashTable\obj\Debug\net8.0\refint\HashTable.dll
+D:\Projects\Console\c-sharp-course\HashTable\obj\Debug\net8.0\HashTable.pdb
+D:\Projects\Console\c-sharp-course\HashTable\obj\Debug\net8.0\HashTable.genruntimeconfig.cache
+D:\Projects\Console\c-sharp-course\HashTable\obj\Debug\net8.0\ref\HashTable.dll

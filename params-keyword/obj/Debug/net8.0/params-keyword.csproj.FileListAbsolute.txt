@@ -1,0 +1,14 @@
+D:\Projects\Console\c-sharp-course\params-keyword\bin\Debug\net8.0\params-keyword.exe
+D:\Projects\Console\c-sharp-course\params-keyword\bin\Debug\net8.0\params-keyword.deps.json
+D:\Projects\Console\c-sharp-course\params-keyword\bin\Debug\net8.0\params-keyword.runtimeconfig.json
+D:\Projects\Console\c-sharp-course\params-keyword\bin\Debug\net8.0\params-keyword.dll
+D:\Projects\Console\c-sharp-course\params-keyword\bin\Debug\net8.0\params-keyword.pdb
+D:\Projects\Console\c-sharp-course\params-keyword\obj\Debug\net8.0\params-keyword.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Console\c-sharp-course\params-keyword\obj\Debug\net8.0\params-keyword.AssemblyInfoInputs.cache
+D:\Projects\Console\c-sharp-course\params-keyword\obj\Debug\net8.0\params-keyword.AssemblyInfo.cs
+D:\Projects\Console\c-sharp-course\params-keyword\obj\Debug\net8.0\params-keyword.csproj.CoreCompileInputs.cache
+D:\Projects\Console\c-sharp-course\params-keyword\obj\Debug\net8.0\params-keyword.dll
+D:\Projects\Console\c-sharp-course\params-keyword\obj\Debug\net8.0\refint\params-keyword.dll
+D:\Projects\Console\c-sharp-course\params-keyword\obj\Debug\net8.0\params-keyword.pdb
+D:\Projects\Console\c-sharp-course\params-keyword\obj\Debug\net8.0\params-keyword.genruntimeconfig.cache
+D:\Projects\Console\c-sharp-course\params-keyword\obj\Debug\net8.0\ref\params-keyword.dll

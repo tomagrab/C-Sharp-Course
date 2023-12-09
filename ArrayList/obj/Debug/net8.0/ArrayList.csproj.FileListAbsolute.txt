@@ -1,0 +1,14 @@
+D:\Projects\Console\c-sharp-course\ArrayList\bin\Debug\net8.0\ArrayList.exe
+D:\Projects\Console\c-sharp-course\ArrayList\bin\Debug\net8.0\ArrayList.deps.json
+D:\Projects\Console\c-sharp-course\ArrayList\bin\Debug\net8.0\ArrayList.runtimeconfig.json
+D:\Projects\Console\c-sharp-course\ArrayList\bin\Debug\net8.0\ArrayList.dll
+D:\Projects\Console\c-sharp-course\ArrayList\bin\Debug\net8.0\ArrayList.pdb
+D:\Projects\Console\c-sharp-course\ArrayList\obj\Debug\net8.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Console\c-sharp-course\ArrayList\obj\Debug\net8.0\ArrayList.AssemblyInfoInputs.cache
+D:\Projects\Console\c-sharp-course\ArrayList\obj\Debug\net8.0\ArrayList.AssemblyInfo.cs
+D:\Projects\Console\c-sharp-course\ArrayList\obj\Debug\net8.0\ArrayList.csproj.CoreCompileInputs.cache
+D:\Projects\Console\c-sharp-course\ArrayList\obj\Debug\net8.0\ArrayList.dll
+D:\Projects\Console\c-sharp-course\ArrayList\obj\Debug\net8.0\refint\ArrayList.dll
+D:\Projects\Console\c-sharp-course\ArrayList\obj\Debug\net8.0\ArrayList.pdb
+D:\Projects\Console\c-sharp-course\ArrayList\obj\Debug\net8.0\ArrayList.genruntimeconfig.cache
+D:\Projects\Console\c-sharp-course\ArrayList\obj\Debug\net8.0\ref\ArrayList.dll

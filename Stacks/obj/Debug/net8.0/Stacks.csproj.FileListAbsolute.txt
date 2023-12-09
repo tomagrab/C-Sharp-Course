@@ -1,0 +1,14 @@
+D:\Projects\Console\c-sharp-course\Stacks\obj\Debug\net8.0\Stacks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Console\c-sharp-course\Stacks\obj\Debug\net8.0\Stacks.AssemblyInfoInputs.cache
+D:\Projects\Console\c-sharp-course\Stacks\obj\Debug\net8.0\Stacks.AssemblyInfo.cs
+D:\Projects\Console\c-sharp-course\Stacks\obj\Debug\net8.0\Stacks.csproj.CoreCompileInputs.cache
+D:\Projects\Console\c-sharp-course\Stacks\bin\Debug\net8.0\Stacks.exe
+D:\Projects\Console\c-sharp-course\Stacks\bin\Debug\net8.0\Stacks.deps.json
+D:\Projects\Console\c-sharp-course\Stacks\bin\Debug\net8.0\Stacks.runtimeconfig.json
+D:\Projects\Console\c-sharp-course\Stacks\bin\Debug\net8.0\Stacks.dll
+D:\Projects\Console\c-sharp-course\Stacks\bin\Debug\net8.0\Stacks.pdb
+D:\Projects\Console\c-sharp-course\Stacks\obj\Debug\net8.0\Stacks.dll
+D:\Projects\Console\c-sharp-course\Stacks\obj\Debug\net8.0\refint\Stacks.dll
+D:\Projects\Console\c-sharp-course\Stacks\obj\Debug\net8.0\Stacks.pdb
+D:\Projects\Console\c-sharp-course\Stacks\obj\Debug\net8.0\Stacks.genruntimeconfig.cache
+D:\Projects\Console\c-sharp-course\Stacks\obj\Debug\net8.0\ref\Stacks.dll

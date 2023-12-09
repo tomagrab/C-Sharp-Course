@@ -1,0 +1,14 @@
+D:\Projects\Console\c-sharp-course\Dictionaries\obj\Debug\net8.0\Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Console\c-sharp-course\Dictionaries\obj\Debug\net8.0\Dictionaries.AssemblyInfoInputs.cache
+D:\Projects\Console\c-sharp-course\Dictionaries\obj\Debug\net8.0\Dictionaries.AssemblyInfo.cs
+D:\Projects\Console\c-sharp-course\Dictionaries\obj\Debug\net8.0\Dictionaries.csproj.CoreCompileInputs.cache
+D:\Projects\Console\c-sharp-course\Dictionaries\bin\Debug\net8.0\Dictionaries.exe
+D:\Projects\Console\c-sharp-course\Dictionaries\bin\Debug\net8.0\Dictionaries.deps.json
+D:\Projects\Console\c-sharp-course\Dictionaries\bin\Debug\net8.0\Dictionaries.runtimeconfig.json
+D:\Projects\Console\c-sharp-course\Dictionaries\bin\Debug\net8.0\Dictionaries.dll
+D:\Projects\Console\c-sharp-course\Dictionaries\bin\Debug\net8.0\Dictionaries.pdb
+D:\Projects\Console\c-sharp-course\Dictionaries\obj\Debug\net8.0\Dictionaries.dll
+D:\Projects\Console\c-sharp-course\Dictionaries\obj\Debug\net8.0\refint\Dictionaries.dll
+D:\Projects\Console\c-sharp-course\Dictionaries\obj\Debug\net8.0\Dictionaries.pdb
+D:\Projects\Console\c-sharp-course\Dictionaries\obj\Debug\net8.0\Dictionaries.genruntimeconfig.cache
+D:\Projects\Console\c-sharp-course\Dictionaries\obj\Debug\net8.0\ref\Dictionaries.dll
