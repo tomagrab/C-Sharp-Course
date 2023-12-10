@@ -1,0 +1,15 @@
+C:\Users\Tommy\source\repos\C-Sharp-Course\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.exe
+C:\Users\Tommy\source\repos\C-Sharp-Course\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.deps.json
+C:\Users\Tommy\source\repos\C-Sharp-Course\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.runtimeconfig.json
+C:\Users\Tommy\source\repos\C-Sharp-Course\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.dll
+C:\Users\Tommy\source\repos\C-Sharp-Course\InheritanceDemo\bin\Debug\net8.0\InheritanceDemo.pdb
+C:\Users\Tommy\source\repos\C-Sharp-Course\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommy\source\repos\C-Sharp-Course\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.AssemblyInfoInputs.cache
+C:\Users\Tommy\source\repos\C-Sharp-Course\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.AssemblyInfo.cs
+C:\Users\Tommy\source\repos\C-Sharp-Course\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\Tommy\source\repos\C-Sharp-Course\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.sourcelink.json
+C:\Users\Tommy\source\repos\C-Sharp-Course\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.dll
+C:\Users\Tommy\source\repos\C-Sharp-Course\InheritanceDemo\obj\Debug\net8.0\refint\InheritanceDemo.dll
+C:\Users\Tommy\source\repos\C-Sharp-Course\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.pdb
+C:\Users\Tommy\source\repos\C-Sharp-Course\InheritanceDemo\obj\Debug\net8.0\InheritanceDemo.genruntimeconfig.cache
+C:\Users\Tommy\source\repos\C-Sharp-Course\InheritanceDemo\obj\Debug\net8.0\ref\InheritanceDemo.dll

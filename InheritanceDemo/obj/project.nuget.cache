@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7UD50OTqG8ZRXxwfv0OSLFWQVIPRawEJpLId30nLJT1zhR5qHMwsGakEd7gIPVVqtDX+nHtoRonmiIykyOa8YQ==",
+  "dgSpecHash": "b4M4DvB/t9fo+CtCf/DGOjS1er3EBoerqyXHPZsflvct6JFMBRB3e1E9D+kq8cV7IA4oE/rVOG11Kcsf81Thmw==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Console\\c-sharp-course\\InheritanceDemo\\InheritanceDemo.csproj",
+  "projectFilePath": "C:\\Users\\Tommy\\source\\repos\\C-Sharp-Course\\InheritanceDemo\\InheritanceDemo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
