@@ -8,24 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Tommy\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\tommy.grabowski\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tommy\\source\\repos\\C-Sharp-Course\\InheritanceDemo\\InheritanceDemo.csproj",
+      "projectUniqueName": "C:\\Users\\tommy.grabowski\\source\\repos\\C-Sharp-Course\\InheritanceDemo\\InheritanceDemo.csproj",
       "projectName": "InheritanceDemo",
-      "projectPath": "C:\\Users\\Tommy\\source\\repos\\C-Sharp-Course\\InheritanceDemo\\InheritanceDemo.csproj",
-      "packagesPath": "C:\\Users\\Tommy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tommy\\source\\repos\\C-Sharp-Course\\InheritanceDemo\\obj\\",
+      "projectPath": "C:\\Users\\tommy.grabowski\\source\\repos\\C-Sharp-Course\\InheritanceDemo\\InheritanceDemo.csproj",
+      "packagesPath": "C:\\Users\\tommy.grabowski\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tommy.grabowski\\source\\repos\\C-Sharp-Course\\InheritanceDemo\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Tommy\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\tommy.grabowski\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

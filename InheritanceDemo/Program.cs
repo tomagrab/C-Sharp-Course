@@ -1,4 +1,4 @@
-﻿using InheritanceDemo.Models;
+﻿using InheritanceDemo.Employees;
 
 namespace InheritanceDemo
 {
@@ -6,9 +6,25 @@ namespace InheritanceDemo
     {
         static void Main(string[] args)
         {
-            Post post1 = new Post("Thanks for the birthday wishes", true, "Derek Bananas");
+            Employee jakeTheWorker = new Employee("Jake", "The Worker", 2000);
+            Boss jakeTheBoss = new Boss("Jake", "The Boss", 5000, "BMW");
+            Trainee jakeTheTrainee = new Trainee("Jake", "The Trainee", 1000, 20, 10);
 
-            Console.WriteLine(post1.ToString());
+            jakeTheWorker.Work();
+            jakeTheWorker.Pause();
+            Console.WriteLine(jakeTheWorker.ToString());
+
+            jakeTheBoss.Lead();
+            jakeTheBoss.Work();
+            jakeTheBoss.Pause();
+            Console.WriteLine(jakeTheBoss.ToString());
+
+            jakeTheTrainee.Learn();
+            jakeTheTrainee.Work();
+            jakeTheTrainee.Pause();
+            Console.WriteLine(jakeTheTrainee.ToString());
+
+            Console.ReadKey();
         }
     }
 }
