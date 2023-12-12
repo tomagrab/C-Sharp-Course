@@ -1,0 +1,15 @@
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumeratorAndIEnumerable\bin\Debug\net8.0\IEnumeratorAndIEnumerable.exe
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumeratorAndIEnumerable\bin\Debug\net8.0\IEnumeratorAndIEnumerable.deps.json
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumeratorAndIEnumerable\bin\Debug\net8.0\IEnumeratorAndIEnumerable.runtimeconfig.json
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumeratorAndIEnumerable\bin\Debug\net8.0\IEnumeratorAndIEnumerable.dll
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumeratorAndIEnumerable\bin\Debug\net8.0\IEnumeratorAndIEnumerable.pdb
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumeratorAndIEnumerable\obj\Debug\net8.0\IEnumeratorAndIEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumeratorAndIEnumerable\obj\Debug\net8.0\IEnumeratorAndIEnumerable.AssemblyInfoInputs.cache
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumeratorAndIEnumerable\obj\Debug\net8.0\IEnumeratorAndIEnumerable.AssemblyInfo.cs
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumeratorAndIEnumerable\obj\Debug\net8.0\IEnumeratorAndIEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumeratorAndIEnumerable\obj\Debug\net8.0\IEnumeratorAndIEnumerable.sourcelink.json
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumeratorAndIEnumerable\obj\Debug\net8.0\IEnumeratorAndIEnumerable.dll
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumeratorAndIEnumerable\obj\Debug\net8.0\refint\IEnumeratorAndIEnumerable.dll
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumeratorAndIEnumerable\obj\Debug\net8.0\IEnumeratorAndIEnumerable.pdb
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumeratorAndIEnumerable\obj\Debug\net8.0\IEnumeratorAndIEnumerable.genruntimeconfig.cache
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumeratorAndIEnumerable\obj\Debug\net8.0\ref\IEnumeratorAndIEnumerable.dll
