@@ -1,0 +1,15 @@
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumerableExample1\IEnumerableExample2\bin\Debug\net8.0\IEnumerableExample2.exe
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumerableExample1\IEnumerableExample2\bin\Debug\net8.0\IEnumerableExample2.deps.json
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumerableExample1\IEnumerableExample2\bin\Debug\net8.0\IEnumerableExample2.runtimeconfig.json
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumerableExample1\IEnumerableExample2\bin\Debug\net8.0\IEnumerableExample2.dll
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumerableExample1\IEnumerableExample2\bin\Debug\net8.0\IEnumerableExample2.pdb
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumerableExample1\IEnumerableExample2\obj\Debug\net8.0\IEnumerableExample2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumerableExample1\IEnumerableExample2\obj\Debug\net8.0\IEnumerableExample2.AssemblyInfoInputs.cache
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumerableExample1\IEnumerableExample2\obj\Debug\net8.0\IEnumerableExample2.AssemblyInfo.cs
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumerableExample1\IEnumerableExample2\obj\Debug\net8.0\IEnumerableExample2.csproj.CoreCompileInputs.cache
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumerableExample1\IEnumerableExample2\obj\Debug\net8.0\IEnumerableExample2.sourcelink.json
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumerableExample1\IEnumerableExample2\obj\Debug\net8.0\IEnumerableExample2.dll
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumerableExample1\IEnumerableExample2\obj\Debug\net8.0\refint\IEnumerableExample2.dll
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumerableExample1\IEnumerableExample2\obj\Debug\net8.0\IEnumerableExample2.pdb
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumerableExample1\IEnumerableExample2\obj\Debug\net8.0\IEnumerableExample2.genruntimeconfig.cache
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumerableExample1\IEnumerableExample2\obj\Debug\net8.0\ref\IEnumerableExample2.dll
