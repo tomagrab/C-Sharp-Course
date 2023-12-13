@@ -1,0 +1,15 @@
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumerableExercise\bin\Debug\net8.0\IEnumerableExercise.exe
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumerableExercise\bin\Debug\net8.0\IEnumerableExercise.deps.json
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumerableExercise\bin\Debug\net8.0\IEnumerableExercise.runtimeconfig.json
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumerableExercise\bin\Debug\net8.0\IEnumerableExercise.dll
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumerableExercise\bin\Debug\net8.0\IEnumerableExercise.pdb
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumerableExercise\obj\Debug\net8.0\IEnumerableExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumerableExercise\obj\Debug\net8.0\IEnumerableExercise.AssemblyInfoInputs.cache
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumerableExercise\obj\Debug\net8.0\IEnumerableExercise.AssemblyInfo.cs
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumerableExercise\obj\Debug\net8.0\IEnumerableExercise.csproj.CoreCompileInputs.cache
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumerableExercise\obj\Debug\net8.0\IEnumerableExercise.sourcelink.json
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumerableExercise\obj\Debug\net8.0\IEnumerableExercise.dll
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumerableExercise\obj\Debug\net8.0\refint\IEnumerableExercise.dll
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumerableExercise\obj\Debug\net8.0\IEnumerableExercise.pdb
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumerableExercise\obj\Debug\net8.0\IEnumerableExercise.genruntimeconfig.cache
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\IEnumerableExercise\obj\Debug\net8.0\ref\IEnumerableExercise.dll

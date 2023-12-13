@@ -1,0 +1,15 @@
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\PolymorhicParameters\bin\Debug\net8.0\PolymorhicParameters.exe
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\PolymorhicParameters\bin\Debug\net8.0\PolymorhicParameters.deps.json
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\PolymorhicParameters\bin\Debug\net8.0\PolymorhicParameters.runtimeconfig.json
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\PolymorhicParameters\bin\Debug\net8.0\PolymorhicParameters.dll
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\PolymorhicParameters\bin\Debug\net8.0\PolymorhicParameters.pdb
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\PolymorhicParameters\obj\Debug\net8.0\PolymorhicParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\PolymorhicParameters\obj\Debug\net8.0\PolymorhicParameters.AssemblyInfoInputs.cache
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\PolymorhicParameters\obj\Debug\net8.0\PolymorhicParameters.AssemblyInfo.cs
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\PolymorhicParameters\obj\Debug\net8.0\PolymorhicParameters.csproj.CoreCompileInputs.cache
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\PolymorhicParameters\obj\Debug\net8.0\PolymorhicParameters.sourcelink.json
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\PolymorhicParameters\obj\Debug\net8.0\PolymorhicParameters.dll
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\PolymorhicParameters\obj\Debug\net8.0\refint\PolymorhicParameters.dll
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\PolymorhicParameters\obj\Debug\net8.0\PolymorhicParameters.pdb
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\PolymorhicParameters\obj\Debug\net8.0\PolymorhicParameters.genruntimeconfig.cache
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\PolymorhicParameters\obj\Debug\net8.0\ref\PolymorhicParameters.dll
