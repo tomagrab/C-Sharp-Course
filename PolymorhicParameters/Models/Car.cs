@@ -4,6 +4,21 @@ namespace Polymorphism.Models
     {
         public int HP { get; set; }
         public string Color { get; set; }
+
+        // Has A relationship
+        protected CarIDInfo carIDInfo = new CarIDInfo();
+
+        public void SetCarIDInfo(int idNum, string owner)
+        {
+            carIDInfo.IDNum = idNum;
+            carIDInfo.Owner = owner;
+        }
+
+        public void GetCarIDInfo()
+        {
+            Console.WriteLine($"The car has the ID of {carIDInfo.IDNum} and is owned by {carIDInfo.Owner}");
+        }
+
         public Car()
         {
             HP = 100;
@@ -16,11 +31,11 @@ namespace Polymorphism.Models
         }
         public void ShowDetails()
         {
-            System.Console.WriteLine($"HP: {HP} Color: {Color}");
+            Console.WriteLine($"HP: {HP} Color: {Color}");
         }
         public virtual void Repair()
         {
-            System.Console.WriteLine("Car was repaired!");
+            Console.WriteLine("Car was repaired!");
         }
     }
 }

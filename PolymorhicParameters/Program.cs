@@ -26,6 +26,12 @@ namespace Polymorphism
                 car.ShowDetails();
                 car.Repair();
             }
+
+            BMW bmw23 = new BMW(300, "Blue", "M3");
+            bmw23.SetCarIDInfo(1234, "John Doe");
+            bmw23.GetCarIDInfo();
+
+
         }
     }
 }

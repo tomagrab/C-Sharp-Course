@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PolymorhicParameters")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+980e9f5d84f89e1e7755a7891d2c9e495e085279")]
 [assembly: System.Reflection.AssemblyProductAttribute("PolymorhicParameters")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PolymorhicParameters")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
