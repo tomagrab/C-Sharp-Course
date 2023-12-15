@@ -1,0 +1,5 @@
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\MathClass\obj\Debug\net8.0\MathClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\MathClass\obj\Debug\net8.0\MathClass.AssemblyInfoInputs.cache
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\MathClass\obj\Debug\net8.0\MathClass.AssemblyInfo.cs
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\MathClass\obj\Debug\net8.0\MathClass.csproj.CoreCompileInputs.cache
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\MathClass\obj\Debug\net8.0\MathClass.sourcelink.json
