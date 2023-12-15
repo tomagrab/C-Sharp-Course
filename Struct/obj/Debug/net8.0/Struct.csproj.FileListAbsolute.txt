@@ -1,0 +1,15 @@
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\Struct\bin\Debug\net8.0\Struct.exe
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\Struct\bin\Debug\net8.0\Struct.deps.json
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\Struct\bin\Debug\net8.0\Struct.runtimeconfig.json
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\Struct\bin\Debug\net8.0\Struct.dll
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\Struct\bin\Debug\net8.0\Struct.pdb
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\Struct\obj\Debug\net8.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\Struct\obj\Debug\net8.0\Struct.AssemblyInfoInputs.cache
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\Struct\obj\Debug\net8.0\Struct.AssemblyInfo.cs
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\Struct\obj\Debug\net8.0\Struct.csproj.CoreCompileInputs.cache
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\Struct\obj\Debug\net8.0\Struct.sourcelink.json
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\Struct\obj\Debug\net8.0\Struct.dll
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\Struct\obj\Debug\net8.0\refint\Struct.dll
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\Struct\obj\Debug\net8.0\Struct.pdb
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\Struct\obj\Debug\net8.0\Struct.genruntimeconfig.cache
+C:\Users\tommy.grabowski\source\repos\C-Sharp-Course\Struct\obj\Debug\net8.0\ref\Struct.dll
